@@ -1,3 +1,4 @@
+cd 2nd-PyCrawlerMarathon/
 git add .
 git commit -m "Tags"
 *git remote add pythonCrawler git@github.com:insidehome/2nd-PyCrawlerMarathon.git
