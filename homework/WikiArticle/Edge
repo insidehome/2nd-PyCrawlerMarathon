@@ -1,0 +1,37 @@
+Microsoft Edge（研發代號為Project Spartan，譯為微軟邊緣瀏覽器[9]或微軟前沿瀏覽器[10]）是一個由微軟研發的瀏覽器，於2015年1月21日公布，2015年3月30日公開發布第一個預覽版。該瀏覽器在Windows 10和Windows 10 Mobile中取代Internet Explorer成為預設瀏覽器，其中，Windows 10 Mobile中的IE已經被移除。
+
+Microsoft Edge移除包括ActiveX在內的一些過時且較不安全的技術，同時又加入一些新的拓展技術如：建立網頁筆記、Cortana語音助理和OneDrive，同時也提供網頁標記（英語：Web annotation）功能和閱讀模式功能。[7]
+
+2018年12月6日，微軟宣布Microsoft Edge未來將基於Chromium開發，並將支援所有受支援的Windows版本以及macOS等平台[11]。基於Chromium開發的Microsoft Edge測試版分為（Beta Channel,Dev Channel和Canary Channel）[12]。
+
+採用 Chromium 為核心的 Microsoft Edge 正式版已於 2020 年 1 月 15 日正式釋出。[13]但沒有嵌入Windows系統。
+
+微軟已於2020年1月14日停止對 Windows 7 系統的支援，微軟表示基於 Chromium 核心的 Edge 將仍然擁有至少18個月的功能和安全更新。[14]
+
+Microsoft Edge在Windows 10 Mobile、Windows 10電腦版和Xbox One遊戲主機中取代Internet Explorer Mobile和Internet Explorer 11作為預設瀏覽器[15]。Microsoft Edge使用了名為EdgeHTML的排版引擎，該引擎是Trident的一個分支[16]。因為企業使用者對向下相容性的要求，網頁同樣可以被MSHTML引擎開啟[7][17]。
+
+瀏覽器整合了Adobe Flash Player、PDF閱讀器和支援asm.js[18]。
+
+Microsoft Edge並不支援包括ActiveX和瀏覽器輔助物件在內一些技術，而是會使用一個外掛程式系統[7][17][19]。因為ActiveX等相容性等問題，在Windows 10之中仍然可以使用Internet Explorer 11，它和Windows 8.1中的IE完全相同，並沒有使用EdgeHTML引擎[7][15][17]。
+
+Microsoft Edge中還有微軟的其它一些專案，它利用Microsoft Cortana來提供語音控制，動態、個人化的搜尋。使用者可以在網頁中做一些標記，這些標記可以儲存在OneDrive之中[20]。Microsoft Edge還有「閱讀列表」這一功能來同步不同裝置之間的閱讀內容，並且提供「閱讀模式」來將網頁中一些多餘的內容去除以提高可讀性[20]。
+
+瀏覽器初步支援延伸模組是在 2016 年 3 月 Build 14291加入：最初只有三個延伸模組得到的支援。微軟表示延遲支援延伸模組和只有少數的延伸模組是出於安全考慮[21]。
+
+2014年12月，科技作家瑪麗・喬・弗利（Mary Jo Foley）在ZDNet（英語：ZDNet）撰文稱微軟正在為Windows 10研發代號為Project Spartan的新瀏覽器。她聲稱Spartan將會是一個獨立的新產品，它將會和Internet Explorer 11共同存在[22]。
+
+2015年1月上旬，The Verge從接近微軟的消息來源得知一些有關Project Spartan的細節，這些細節中包括該瀏覽器將會在Windows 10的電腦版本和行動版本中取代Internet Explorer的消息[23]。微軟官方在2015年1月21日的一場Windows 10主題演講中公布了這一計劃[20]。Spartan將會成為一個獨立於Internet Explorer的獨立專案，並將起用一個新的品牌名稱。當時並未公布該名稱，很多人揶揄道「Microsoft」將會在名字裡[24]。
+
+Project Spartan第一次公開發行是在2015年3月30日發布的Windows 10技術預覽版組建10049版本中[25]。Spartan使用的新的引擎曾作為Internet Explorer的一部份而在Windows 10中存在。微軟最終公布Internet Explorer將不會使用來自Project Spartan的引擎，並且Internet Explorer將不會在Windows 10中繼續存在[15][26]。
+
+2015年4月29日，在微軟Build 2015開發者大會中，Project Spartan被正式命名為Microsoft Edge[27]，使用稍加改動的Internet Explorer圖示。微軟堅持使用E開頭的名字，這樣習慣點擊「藍色E」圖示的消費者會知道如何啟動新的瀏覽器[28]。
+
+2018年12月6日，微軟正式宣布電腦版Edge瀏覽器將採用Chromium核心，並將支援所有受支援的Windows版本及macOS和Linux平台[29]。
+
+2020年1月15日，微軟推出新版Edge，其核心正式更改為Chromium核心，拋棄以往的EdgeHTML。對 Logo 也進行了修改，從原本 Modern 風格的「藍色平面Logo」改成了遵循 Fluent 風格「藍綠色漸層Logo」。
+[30]
+
+相較於IE11中的Trident 7，瀏覽器引擎EdgeHTML在早期的基準測試中JavaScript效能大幅提高。新瀏覽器比IE11快達兩倍，比Google Chrome 43和Mozilla Firefox 40都要快。[31]在SunSpider的基準測試中，Edge明顯快於其他瀏覽器，在Google的Octane 2.0和Jetstream Benchmark的測試中，它比Google Chrome、Mozilla Firefox和Opera都要快，且耗電量比起其他瀏覽器少。
+
+Edge使用白名單策略允許部份網站繞過Edge安全功能執行Flash內容，在2018年2月前，這個白名單包括58個條目。其中有微軟主站及子站域名、MSN、音樂串流媒體Deezer、雅虎，以及騰訊QQ、華數TV、鬥魚、4433、PPTV、bilibili等。在Google的安全研究人員報告白名單機制存在安全問題之後，白名單中的條目數量減少到兩個：facebook.com和apps.facebook.com。[32]
+
