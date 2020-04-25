@@ -1,7 +1,7 @@
-homework/data/*
-
-homework/wikiArticle/*
-
-org/*
+homework/data/
+homework/wikiArticle/
+homework/.ipynb_checkpoints/
+homework/chromedriver
+org/
 
 git_command.txt
